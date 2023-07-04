@@ -4,6 +4,8 @@
 # Modified by https://github.com/toiletflusher to remove windres dependency,   #
 # fix libsdl error, change directory where compiled binary is at and make sure #
 # it doesn't delete the whole directory it compiled at.                        #
+#                                                                              #
+# Original CBP file by Federico Dossena.                                       #
 #------------------------------------------------------------------------------#
 
 
