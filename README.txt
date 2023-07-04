@@ -1,5 +1,5 @@
-                          __________________
- ________________________|ChadQuake-Makefile|__________________________
+                         ____________________
+ _______________________| ChadQuake-Makefile |_________________________
 |                                                                      |
 | ChadQuake-Makefile is a fork of ChadQuake                            |
 | (https://github.com/adolfintel/ChadQuake) with a Makefile build      |
@@ -7,8 +7,8 @@
 | and G++. Tested only on Devuan Chimeara.                             |
 |                                                                      |
 ************************************************************************
-                          __________________
- ________________________|     License      |__________________________
+                         ____________________
+ _______________________|      License       |_________________________
 |                                                                      |
 | Copyright (C) 2018-2022 Federico Dossena                             |
 |                                                                      |
